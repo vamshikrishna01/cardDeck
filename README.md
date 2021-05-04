@@ -1,2 +1,2 @@
-# cardDeck
-Create card deck, shuffle and sort
+# 🃏 CardDeck 🃏
+Create card deck, shuffle it and sort it!
